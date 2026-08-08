@@ -2,7 +2,7 @@
 
 ## Dataset Name
 
-**Indian Crimes Dataset **
+**Indian Crimes Dataset**
 
 ---
 
